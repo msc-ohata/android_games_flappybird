@@ -7,9 +7,7 @@ O jogador
 
 ![Mecânica](mecanicas.png)
 
-
-## Instalação
-Realizar o download do arquivo Game.apk e realizar a instalação em celulares com Sistema Operacional Android.
+![Gameplay](gameplay.png)
 
 ## Publicação
 https://m.apkpure.com/br/flappygame/com.mygdx.game.flappybird
