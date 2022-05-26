@@ -7,6 +7,9 @@ O personagem (pássaro) se movimenta na horizonta seguindo para a direita, o jog
 
 ![Mecânica](mecanicas.png)
 
+## Gameplay
+Itens que estão presentes no jogo.
+
 ![Gameplay](gameplay.png)
 
 
