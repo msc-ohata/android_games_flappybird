@@ -5,7 +5,7 @@ O jogo foi desenvolvido no Android Studio utilizando a biblioteca libGDX e consi
 ## Mecânicas
 O jogador 
 
-![imagem](https://github.com/msc-ohata/android_games_flappybird/blob/main/mecanicas.jpg)
+![Mecânica](mecanicas.png)
 
 
 ## Instalação
